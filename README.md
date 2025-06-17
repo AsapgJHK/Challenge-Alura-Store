@@ -1,5 +1,8 @@
 **CHALLENGE ALURA STORE**
 
+El presente Challenge tiene como objetivo asesorar Joao sobre cuál de sus tiendas tiene que vender, fundamentando la decisión según los datos entregados por Alura Latam.
+
+
 1.- **IMPORTACIÓN DE DATOS:** Debes importar primeramente las librerías y las url para poder ejecutar los códigos.
 
 2.- **ANÁLISIS DE FACTURACIÓN:** Para poder obtener los análisis de facturación de cada una de las tiendas debes ejecutar los códigos con el boton circular que contiene un triángulo que se encuentra en el lado izquierdo, con el cual podrás obtener una descripción de la facturación de cada una de las tiendas, como también varios gráficos. Hay descripciones para qué sirve cada código señaladas con un #.
