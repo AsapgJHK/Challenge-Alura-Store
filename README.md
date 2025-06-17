@@ -1,6 +1,6 @@
 **CHALLENGE ALURA STORE**
 
-El presente Challenge tiene como objetivo asesorar Joao sobre cuál de sus tiendas tiene que vender, fundamentando la decisión según los datos entregados por Alura Latam.
+El presente Challenge tiene como objetivo asesorar a Joao sobre cuál de sus tiendas tiene que vender, fundamentando la decisión según los datos entregados por Alura Latam.
 
 
 1.- **IMPORTACIÓN DE DATOS:** Debes importar primeramente las librerías y las url para poder ejecutar los códigos.
